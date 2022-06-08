@@ -13,5 +13,5 @@ Para a elaboração do projeto, utilizei:
 
 Fique à vontade para conferir o resultado neste repositório e para entrar em contato.
 
-## ![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)
+## 🚀
 
