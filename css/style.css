@@ -116,3 +116,24 @@ body {
     height: auto;
     border-radius: 16px;
 }
+
+/* Section 3 */
+
+.section3 {
+    background-color: #e5e7eb;
+    text-align: center;
+    padding: 150px;
+}
+
+.section3 q {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.section3 p {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1f2937;
+}
